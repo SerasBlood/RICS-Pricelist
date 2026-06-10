@@ -15,7 +15,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Bloodlust_0": {
@@ -34,7 +34,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Kind_0": {
@@ -53,7 +53,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Psychopath_0": {
@@ -72,7 +72,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Cannibal_0": {
@@ -91,7 +91,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Abrasive_0": {
@@ -110,7 +110,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "TooSmart_0": {
@@ -133,7 +133,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Brawler_0": {
@@ -154,7 +154,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Masochist_0": {
@@ -173,7 +173,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "NightOwl_0": {
@@ -192,7 +192,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Greedy_0": {
@@ -211,7 +211,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Jealous_0": {
@@ -230,7 +230,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Ascetic_0": {
@@ -249,7 +249,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Gay_0": {
@@ -268,7 +268,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Bisexual_0": {
@@ -287,7 +287,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Asexual_0": {
@@ -306,7 +306,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "AnnoyingVoice_0": {
@@ -325,7 +325,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "CreepyBreathing_0": {
@@ -344,7 +344,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Pyromaniac_0": {
@@ -363,7 +363,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Wimp_0": {
@@ -384,7 +384,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Nimble_0": {
@@ -405,7 +405,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FastLearner_0": {
@@ -426,7 +426,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "SlowLearner_0": {
@@ -447,7 +447,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Undergrounder_0": {
@@ -466,7 +466,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Transhumanist_0": {
@@ -485,7 +485,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "BodyPurist_0": {
@@ -504,7 +504,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "DislikesMen_0": {
@@ -523,7 +523,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "DislikesWomen_0": {
@@ -542,7 +542,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "GreatMemory_0": {
@@ -563,7 +563,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Tough_0": {
@@ -582,7 +582,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "TorturedArtist_0": {
@@ -603,7 +603,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Gourmand_0": {
@@ -622,7 +622,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "QuickSleeper_0": {
@@ -643,7 +643,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "SpeedOffset_-1": {
@@ -664,7 +664,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "SpeedOffset_1": {
@@ -685,7 +685,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "SpeedOffset_2": {
@@ -706,7 +706,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "DrugDesire_2": {
@@ -725,7 +725,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "DrugDesire_1": {
@@ -744,7 +744,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "DrugDesire_-1": {
@@ -763,7 +763,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "NaturalMood_2": {
@@ -782,7 +782,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "NaturalMood_1": {
@@ -801,7 +801,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "NaturalMood_-1": {
@@ -820,7 +820,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "NaturalMood_-2": {
@@ -839,7 +839,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Nerves_2": {
@@ -860,7 +860,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Nerves_1": {
@@ -881,7 +881,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Nerves_-1": {
@@ -902,7 +902,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Nerves_-2": {
@@ -923,7 +923,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Neurotic_1": {
@@ -945,7 +945,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Neurotic_2": {
@@ -967,7 +967,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Industriousness_2": {
@@ -988,7 +988,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Industriousness_1": {
@@ -1009,7 +1009,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Industriousness_-1": {
@@ -1030,7 +1030,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Industriousness_-2": {
@@ -1051,7 +1051,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "PsychicSensitivity_2": {
@@ -1072,7 +1072,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "PsychicSensitivity_1": {
@@ -1093,7 +1093,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "PsychicSensitivity_-1": {
@@ -1114,7 +1114,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "PsychicSensitivity_-2": {
@@ -1135,7 +1135,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "ShootingAccuracy_1": {
@@ -1157,7 +1157,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "ShootingAccuracy_-1": {
@@ -1179,7 +1179,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Beauty_2": {
@@ -1200,7 +1200,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Beauty_1": {
@@ -1221,7 +1221,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Beauty_-1": {
@@ -1242,7 +1242,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Beauty_-2": {
@@ -1263,7 +1263,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Immunity_1": {
@@ -1284,7 +1284,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Immunity_-1": {
@@ -1303,7 +1303,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Delicate_0": {
@@ -1322,7 +1322,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Biotech",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Recluse_0": {
@@ -1341,7 +1341,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Biotech",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "PerfectMemory_0": {
@@ -1360,7 +1360,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Anomaly",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Occultist_0": {
@@ -1382,7 +1382,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Anomaly",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Joyous_0": {
@@ -1401,7 +1401,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Anomaly",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "BodyMastery_0": {
@@ -1420,7 +1420,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Anomaly",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Disturbing_0": {
@@ -1439,7 +1439,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Anomaly",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VoidFascination_0": {
@@ -1458,7 +1458,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Anomaly",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "AM_Ahimsa_0": {
@@ -1477,7 +1477,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Alpha Memes",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Charisma_1": {
@@ -1504,7 +1504,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Charisma_2": {
@@ -1531,7 +1531,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Intimidation_1": {
@@ -1559,7 +1559,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Intimidation_2": {
@@ -1587,7 +1587,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_AimOffset_-1": {
@@ -1609,7 +1609,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_AimOffset_1": {
@@ -1630,7 +1630,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_AimOffset_2": {
@@ -1651,7 +1651,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Artisan_0": {
@@ -1676,7 +1676,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_IronStomach_0": {
@@ -1700,7 +1700,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Agility_1": {
@@ -1725,7 +1725,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Agility_2": {
@@ -1750,7 +1750,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Intelligence_1": {
@@ -1779,7 +1779,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Intelligence_2": {
@@ -1808,7 +1808,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Perception_1": {
@@ -1835,7 +1835,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Perception_2": {
@@ -1862,7 +1862,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Evasion_1": {
@@ -1885,7 +1885,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Evasion_2": {
@@ -1908,7 +1908,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Scientific_1": {
@@ -1931,7 +1931,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Scientific_2": {
@@ -1954,7 +1954,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Endurance_1": {
@@ -1980,7 +1980,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Endurance_2": {
@@ -2006,7 +2006,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Bargaining_1": {
@@ -2032,7 +2032,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Bargaining_2": {
@@ -2058,7 +2058,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Inspiration_-1": {
@@ -2084,7 +2084,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Inspiration_1": {
@@ -2110,7 +2110,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Inspiration_2": {
@@ -2136,7 +2136,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Generosity_1": {
@@ -2162,7 +2162,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Generosity_2": {
@@ -2188,7 +2188,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Scrapper_0": {
@@ -2214,7 +2214,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_NaturalLeader_0": {
@@ -2240,7 +2240,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_RadResistant_1": {
@@ -2263,7 +2263,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_RadResistant_2": {
@@ -2286,7 +2286,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_ActionBoy_0": {
@@ -2310,7 +2310,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_ActionGirl_0": {
@@ -2334,7 +2334,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_QuickHands_0": {
@@ -2357,7 +2357,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_GunNut_0": {
@@ -2379,7 +2379,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Scrounger_0": {
@@ -2406,7 +2406,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Survivalist_0": {
@@ -2431,7 +2431,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Blitz_0": {
@@ -2454,7 +2454,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Philanthropist_1": {
@@ -2480,7 +2480,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_HealingHands_0": {
@@ -2505,7 +2505,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Rooted_0": {
@@ -2531,7 +2531,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_LeadBelly_0": {
@@ -2555,7 +2555,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Serendipitous_0": {
@@ -2578,7 +2578,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_GreenThumb_0": {
@@ -2603,7 +2603,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Tenderizer_0": {
@@ -2631,7 +2631,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_FortuneFinder_0": {
@@ -2658,7 +2658,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_BountifulButcher_0": {
@@ -2684,7 +2684,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_AnimalFriend_0": {
@@ -2710,7 +2710,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Magnetic_0": {
@@ -2739,7 +2739,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_LifeGiver_0": {
@@ -2764,7 +2764,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_SpiritualHealer_0": {
@@ -2789,7 +2789,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Ghoulish_0": {
@@ -2819,7 +2819,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_IdiotSavant_0": {
@@ -2841,7 +2841,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Stupid_0": {
@@ -2867,7 +2867,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Oblivious_0": {
@@ -2893,7 +2893,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Woodchucker_0": {
@@ -2918,7 +2918,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_WreckingBall_0": {
@@ -2946,7 +2946,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_Perfectionist_0": {
@@ -2971,7 +2971,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FT_IronFist_0": {
@@ -2996,7 +2996,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Fallout Traits Continued",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VAEI_Inhumanized_0": {
@@ -3017,7 +3017,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Anomaly Expanded - Insanity",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VAEI_VoidTouched_0": {
@@ -3036,7 +3036,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Anomaly Expanded - Insanity",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VAEI_Germaphobe_0": {
@@ -3057,7 +3057,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Anomaly Expanded - Insanity",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VAEI_Noncommittal_0": {
@@ -3078,7 +3078,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Anomaly Expanded - Insanity",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VAEI_Unstable_0": {
@@ -3100,7 +3100,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Anomaly Expanded - Insanity",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VAEI_Distractable_0": {
@@ -3121,7 +3121,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Anomaly Expanded - Insanity",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VAEI_MoodSwings_0": {
@@ -3142,7 +3142,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Anomaly Expanded - Insanity",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VCEF_Fisherman_0": {
@@ -3161,7 +3161,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Fishing Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VPE_Thrall_0": {
@@ -3180,7 +3180,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Psycasts Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VQE_IdealPatient_0": {
@@ -3199,7 +3199,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Quests Expanded - Ancients",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_AbsentMinded_0": {
@@ -3220,7 +3220,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Eccentric_0": {
@@ -3241,7 +3241,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Perfectionist_0": {
@@ -3260,7 +3260,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Coward_0": {
@@ -3281,7 +3281,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Brave_0": {
@@ -3304,7 +3304,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Clumsy_0": {
@@ -3323,7 +3323,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_HeatInclined_0": {
@@ -3344,7 +3344,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_ColdInclined_0": {
@@ -3365,7 +3365,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_HeavySleeper_0": {
@@ -3384,7 +3384,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Neat_0": {
@@ -3403,7 +3403,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Slob_0": {
@@ -3422,7 +3422,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Workaholic_0": {
@@ -3441,7 +3441,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_IronStomach_0": {
@@ -3460,7 +3460,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_AnimalLover_0": {
@@ -3479,7 +3479,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_AnimalHater_0": {
@@ -3498,7 +3498,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_BigBoned_0": {
@@ -3517,7 +3517,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Rebel_0": {
@@ -3536,7 +3536,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Submissive_0": {
@@ -3555,7 +3555,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Vengeful_0": {
@@ -3574,7 +3574,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Technophobe_0": {
@@ -3593,7 +3593,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_FunLoving_0": {
@@ -3612,7 +3612,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Dunce_0": {
@@ -3634,7 +3634,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_MartialArtist_0": {
@@ -3653,7 +3653,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Snob_0": {
@@ -3672,7 +3672,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Squeamish_0": {
@@ -3691,7 +3691,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Anxious_0": {
@@ -3712,7 +3712,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Insatiable_0": {
@@ -3731,7 +3731,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Prude_0": {
@@ -3750,7 +3750,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_CouchPotato_0": {
@@ -3769,7 +3769,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_CatPerson_0": {
@@ -3788,7 +3788,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_DogPerson_0": {
@@ -3807,7 +3807,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Prodigy_0": {
@@ -3829,7 +3829,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Menagerist_0": {
@@ -3848,7 +3848,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_ChildOfSea_0": {
@@ -3867,7 +3867,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_ChildOfMountain_0": {
@@ -3886,7 +3886,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_MadSurgeon_0": {
@@ -3908,7 +3908,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_DrunkenMaster_0": {
@@ -3927,7 +3927,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Kleptomaniac_0": {
@@ -3946,7 +3946,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Stoner_0": {
@@ -3965,7 +3965,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Lush_0": {
@@ -3984,7 +3984,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Wanderlust_0": {
@@ -4005,7 +4005,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Insomniac_0": {
@@ -4026,7 +4026,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_WorldWeary_0": {
@@ -4045,7 +4045,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Desensitized_0": {
@@ -4064,7 +4064,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_RefinedPalate_0": {
@@ -4083,7 +4083,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Academian_0": {
@@ -4104,7 +4104,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Groundbreaker_0": {
@@ -4126,7 +4126,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Gastronomist_0": {
@@ -4147,7 +4147,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Ecologist_0": {
@@ -4169,7 +4169,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Tycoon_0": {
@@ -4190,7 +4190,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_ThickSkinned_0": {
@@ -4209,7 +4209,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_ThinSkinned_0": {
@@ -4228,7 +4228,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VTE_Schizoid_0": {
@@ -4247,7 +4247,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VFEP_WarcasketTrait_0": {
@@ -4266,7 +4266,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Factions Expanded - Pirates",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VFEP_Shellcasket_0": {
@@ -4285,7 +4285,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Factions Expanded - Pirates",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VME_Elder_0": {
@@ -4304,7 +4304,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Ideology Expanded - Memes and Structures",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VFEP_WarcasketTrait_Mech_0": {
@@ -4323,7 +4323,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "RimWorld",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   }
 }
