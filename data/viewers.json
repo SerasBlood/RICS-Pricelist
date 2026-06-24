@@ -1,0 +1,59 @@
+{
+  "total": 6,
+  "viewers": [
+    {
+      "username": "kylebartaous2",
+      "karma": 350.0,
+      "coins": 942291,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "73481379"
+      }
+    },
+    {
+      "username": "littlebattousai",
+      "karma": 343.035,
+      "coins": 37123,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "63265184"
+      }
+    },
+    {
+      "username": "dfaxf",
+      "karma": 200.0,
+      "coins": 75607,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "927509089"
+      }
+    },
+    {
+      "username": "rygger_dracora",
+      "karma": 273.8142,
+      "coins": 11383,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "105869346"
+      }
+    },
+    {
+      "username": "tangiabot",
+      "karma": 200.0,
+      "coins": 17800,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "853402143"
+      }
+    },
+    {
+      "username": "professionmksman",
+      "karma": 200.0,
+      "coins": 16938,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "215876839"
+      }
+    }
+  ]
+}
