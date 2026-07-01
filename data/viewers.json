@@ -1,10 +1,10 @@
 {
-  "total": 6,
+  "total": 18,
   "viewers": [
     {
       "username": "kylebartaous2",
-      "karma": 350.0,
-      "coins": 942291,
+      "karma": 313.368378,
+      "coins": 124110,
       "isBanned": false,
       "platformIds": {
         "twitch": "73481379"
@@ -12,8 +12,8 @@
     },
     {
       "username": "littlebattousai",
-      "karma": 343.035,
-      "coins": 37123,
+      "karma": 246.206635,
+      "coins": 114943,
       "isBanned": false,
       "platformIds": {
         "twitch": "63265184"
@@ -21,8 +21,8 @@
     },
     {
       "username": "dfaxf",
-      "karma": 200.0,
-      "coins": 75607,
+      "karma": 346.5,
+      "coins": 25885,
       "isBanned": false,
       "platformIds": {
         "twitch": "927509089"
@@ -30,8 +30,8 @@
     },
     {
       "username": "rygger_dracora",
-      "karma": 273.8142,
-      "coins": 11383,
+      "karma": 307.132324,
+      "coins": 602906,
       "isBanned": false,
       "platformIds": {
         "twitch": "105869346"
@@ -40,7 +40,7 @@
     {
       "username": "tangiabot",
       "karma": 200.0,
-      "coins": 17800,
+      "coins": 80000,
       "isBanned": false,
       "platformIds": {
         "twitch": "853402143"
@@ -49,10 +49,118 @@
     {
       "username": "professionmksman",
       "karma": 200.0,
-      "coins": 16938,
+      "coins": 50516,
       "isBanned": false,
       "platformIds": {
         "twitch": "215876839"
+      }
+    },
+    {
+      "username": "benderisgreat_34_",
+      "karma": 261.5102,
+      "coins": 53540,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "763697448"
+      }
+    },
+    {
+      "username": "raging_aura_blaxx",
+      "karma": 200.0,
+      "coins": 27800,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "570831797"
+      }
+    },
+    {
+      "username": "streamelements",
+      "karma": 200.0,
+      "coins": 68344,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "100135110"
+      }
+    },
+    {
+      "username": "lenzarng",
+      "karma": 292.0798,
+      "coins": 77199,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "97321737"
+      }
+    },
+    {
+      "username": "qilsnib2",
+      "karma": 339.604645,
+      "coins": 113847,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1017284571"
+      }
+    },
+    {
+      "username": "spiderhead_404",
+      "karma": 200.0,
+      "coins": 15200,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "582377858"
+      }
+    },
+    {
+      "username": "alhanatsuki",
+      "karma": 200.0,
+      "coins": 13502,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "102049038"
+      }
+    },
+    {
+      "username": "juicysensations",
+      "karma": 200.0,
+      "coins": 18560,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "140238922"
+      }
+    },
+    {
+      "username": "mockingbyrdmarauder",
+      "karma": 200.0,
+      "coins": 15000,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1117234114"
+      }
+    },
+    {
+      "username": "lightningballad",
+      "karma": 200.0,
+      "coins": 17607,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "134388051"
+      }
+    },
+    {
+      "username": "derbastian89",
+      "karma": 200.0,
+      "coins": 18078,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "83054780"
+      }
+    },
+    {
+      "username": "captolamia",
+      "karma": 200.0,
+      "coins": 11800,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "58513264"
       }
     }
   ]
