@@ -848,13 +848,14 @@
     "Degree": 2,
     "Description": "[PAWN_name]'s will is an iron shield. [PAWN_pronoun] keeps going through thick and thin, when others broke down long before.",
     "Stats": [
-      "-0.18 Mental break threshold"
+      "-0.18 Mental break threshold",
+      "-0.5 Sanity loss multiplier"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 80,
-    "RemovePrice": 667,
+    "AddPrice": 102,
+    "RemovePrice": 855,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -869,13 +870,14 @@
     "Degree": 1,
     "Description": "[PAWN_name] is mentally tough and won't break down under stresses that would crack most people.",
     "Stats": [
-      "-0.09 Mental break threshold"
+      "-0.09 Mental break threshold",
+      "-0.25 Sanity loss multiplier"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 62,
-    "RemovePrice": 521,
+    "AddPrice": 73,
+    "RemovePrice": 615,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -890,13 +892,14 @@
     "Degree": -1,
     "Description": "[PAWN_name] tends to crack under pressure.",
     "Stats": [
-      "+0.08 Mental break threshold"
+      "+0.08 Mental break threshold",
+      "-0.25 Sanity gain multiplier"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 207,
-    "RemovePrice": 345,
+    "AddPrice": 73,
+    "RemovePrice": 611,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -911,13 +914,14 @@
     "Degree": -2,
     "Description": "[PAWN_name] is on a hair-trigger all the time. [PAWN_pronoun] is the first to break in any tough situation.",
     "Stats": [
-      "+0.15 Mental break threshold"
+      "+0.15 Mental break threshold",
+      "-0.5 Sanity gain multiplier"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 262,
-    "RemovePrice": 437,
+    "AddPrice": 101,
+    "RemovePrice": 843,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -933,13 +937,14 @@
     "Description": "[PAWN_name] likes to have things squared away. [PAWN_pronoun] will work harder than most to attain this state of affairs, but [PAWN_possessive] nerves can get the better of [PAWN_objective].",
     "Stats": [
       "+0.2 Global work speed",
-      "+0.08 Mental break threshold"
+      "+0.08 Mental break threshold",
+      "+0.15 Sanity loss multiplier"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 282,
-    "RemovePrice": 470,
+    "AddPrice": 304,
+    "RemovePrice": 507,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -955,13 +960,14 @@
     "Description": "[PAWN_name] feels constantly nervous about everything that has to get done. [PAWN_pronoun] will work extremely hard to attain this state of affairs, but [PAWN_possessive] nerves can easily get the better of [PAWN_objective].",
     "Stats": [
       "+0.4 Global work speed",
-      "+0.14 Mental break threshold"
+      "+0.14 Mental break threshold",
+      "+0.3 Sanity multiplier"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 411,
-    "RemovePrice": 685,
+    "AddPrice": 455,
+    "RemovePrice": 759,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,

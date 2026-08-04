@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-06-30T21:44:16.1915025Z",
-  "totalActiveMods": 331,
+  "exportedAt": "2026-08-04T21:30:38.2734652Z",
+  "totalActiveMods": 344,
   "mods": [
     {
       "author": "Dracora",
@@ -23,7 +23,7 @@
     {
       "author": "Captolamia",
       "name": "[CAP] Rimworld Interactive Chat Service",
-      "steamId": null,
+      "steamId": "3603078790",
       "version": null
     },
     {
@@ -73,6 +73,12 @@
       "name": "[GTG]Traders Accept All Junk Gear",
       "steamId": null,
       "version": null
+    },
+    {
+      "author": "Kiame Vivacity",
+      "name": "[KV] Impassable Map Maker (Continued)",
+      "steamId": "3547048994",
+      "version": "1.6.2"
     },
     {
       "author": "Lusty",
@@ -297,6 +303,12 @@
       "version": "1.6.1"
     },
     {
+      "author": "Halituis Amaricanous",
+      "name": "Armored Leotards",
+      "steamId": "2619914097",
+      "version": "1.2.0"
+    },
+    {
       "author": "Halituis Amaricanus",
       "name": "Astronomy Style Pack",
       "steamId": null,
@@ -429,6 +441,12 @@
       "version": null
     },
     {
+      "author": "ilyvion,  Fluffy",
+      "name": "Colony Manager Redux",
+      "steamId": "3310027356",
+      "version": "0.16.0"
+    },
+    {
       "author": "Blonc",
       "name": "Compatibility Patch for Integrated Implants and Bionic Modularity",
       "steamId": null,
@@ -529,6 +547,12 @@
       "name": "Elite Bionics Framework",
       "steamId": null,
       "version": "6.0.8"
+    },
+    {
+      "author": "YourSteamName",
+      "name": "ERR Name Fixer",
+      "steamId": "3534764713",
+      "version": null
     },
     {
       "author": "Dvdyyz",
@@ -657,6 +681,12 @@
       "version": null
     },
     {
+      "author": "ilyvion",
+      "name": "ilyvion's Laboratory",
+      "steamId": "3296362231",
+      "version": "0.22.0"
+    },
+    {
       "author": "LTS",
       "name": "Integrated Implants",
       "steamId": null,
@@ -750,6 +780,12 @@
       "author": "TheMiggiestMig",
       "name": "MigCorp - Skiptech",
       "steamId": null,
+      "version": null
+    },
+    {
+      "author": "erdelf",
+      "name": "MinifyEverything",
+      "steamId": "872762753",
       "version": null
     },
     {
@@ -1011,9 +1047,21 @@
       "version": "1.6.1"
     },
     {
+      "author": "yowave",
+      "name": "Psychic Bond Tweaks",
+      "steamId": "3113691710",
+      "version": null
+    },
+    {
       "author": "DawnsGlow",
       "name": "Quality Colors (Continued)",
       "steamId": null,
+      "version": null
+    },
+    {
+      "author": "7h0m4s",
+      "name": "Readable Numbers",
+      "steamId": "3762441264",
       "version": null
     },
     {
@@ -1098,6 +1146,12 @@
       "author": "Sierra",
       "name": "RimTraits - Vanilla Trait Colors",
       "steamId": null,
+      "version": null
+    },
+    {
+      "author": "kanboru",
+      "name": "Rimworld Interactive Chat Service - Addon",
+      "steamId": "3760183125",
       "version": null
     },
     {
@@ -1209,6 +1263,12 @@
       "version": null
     },
     {
+      "author": "Axolki",
+      "name": "Smart Work Tab",
+      "steamId": "3766020797",
+      "version": "1.0.3"
+    },
+    {
       "author": "dhultgren",
       "name": "Smarter Construction",
       "steamId": null,
@@ -1303,6 +1363,12 @@
       "name": "Un-Limited Reborn",
       "steamId": null,
       "version": null
+    },
+    {
+      "author": "Mlie",
+      "name": "Use This Instead",
+      "steamId": "3396308787",
+      "version": "1.6.152"
     },
     {
       "author": "Nephlite,  Maxim,  Viceroy",
@@ -1641,6 +1707,12 @@
       "version": null
     },
     {
+      "author": "Oskar Potocki,  Kikohi",
+      "name": "Vanilla Nutrient Paste Expanded",
+      "steamId": "2920385763",
+      "version": null
+    },
+    {
       "author": "legodude17, Oskar Potocki",
       "name": "Vanilla Outposts Expanded",
       "steamId": null,
@@ -1927,6 +1999,12 @@
       "name": "Vehicle Framework",
       "steamId": null,
       "version": "1.6.2144"
+    },
+    {
+      "author": "tlupatac",
+      "name": "VVE Raid",
+      "steamId": "3720926003",
+      "version": null
     },
     {
       "author": "Xercaine",
