@@ -1,5 +1,5 @@
 {
-  "total": 35,
+  "total": 36,
   "viewers": [
     {
       "username": "kylebartaous2",
@@ -13,7 +13,7 @@
     {
       "username": "littlebattousai",
       "karma": 350.0,
-      "coins": 137654,
+      "coins": 140590,
       "isBanned": false,
       "platformIds": {
         "twitch": "63265184"
@@ -31,7 +31,7 @@
     {
       "username": "rygger_dracora",
       "karma": 350.0,
-      "coins": 95478,
+      "coins": 104136,
       "isBanned": false,
       "platformIds": {
         "twitch": "105869346"
@@ -49,7 +49,7 @@
     {
       "username": "professionmksman",
       "karma": 350.0,
-      "coins": 118018,
+      "coins": 119097,
       "isBanned": false,
       "platformIds": {
         "twitch": "215876839"
@@ -76,7 +76,7 @@
     {
       "username": "streamelements",
       "karma": 350.0,
-      "coins": 166071,
+      "coins": 168927,
       "isBanned": false,
       "platformIds": {
         "twitch": "100135110"
@@ -94,7 +94,7 @@
     {
       "username": "qilsnib2",
       "karma": 350.0,
-      "coins": 164732,
+      "coins": 172726,
       "isBanned": false,
       "platformIds": {
         "twitch": "1017284571"
@@ -238,7 +238,7 @@
     {
       "username": "kanboru201",
       "karma": 350.0,
-      "coins": 29116,
+      "coins": 37052,
       "isBanned": false,
       "platformIds": {
         "twitch": "118638460"
@@ -314,6 +314,15 @@
       "isBanned": false,
       "platformIds": {
         "twitch": "688051012"
+      }
+    },
+    {
+      "username": "randy_randorn",
+      "karma": 350.0,
+      "coins": 35089,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1538000808"
       }
     }
   ]
