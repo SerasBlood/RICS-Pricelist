@@ -3021,7 +3021,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Antagonist_0": {
@@ -3042,7 +3042,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Reincarnated_0": {
@@ -3061,7 +3061,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Regressor_0": {
@@ -3080,7 +3080,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_SummonedHero_0": {
@@ -3102,7 +3102,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_NaturalTalent_0": {
@@ -3121,7 +3121,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Prodigy_0": {
@@ -3140,7 +3140,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_LateBloomer_0": {
@@ -3159,7 +3159,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_QuickLearner_0": {
@@ -3178,7 +3178,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_SlowGrind_0": {
@@ -3197,7 +3197,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_PowerSpike_0": {
@@ -3216,7 +3216,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_AwakenedPotential_0": {
@@ -3235,7 +3235,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Genius_0": {
@@ -3254,7 +3254,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_BattleManiac_0": {
@@ -3275,7 +3275,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_BerserkerBlood_0": {
@@ -3296,7 +3296,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_IronWill_0": {
@@ -3319,7 +3319,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_GlassCannon_0": {
@@ -3338,7 +3338,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Fortress_0": {
@@ -3361,7 +3361,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_ShadowStep_0": {
@@ -3382,7 +3382,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_PredatorInstinct_0": {
@@ -3405,7 +3405,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Undying_0": {
@@ -3426,7 +3426,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Mighty_0": {
@@ -3445,7 +3445,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Agile_0": {
@@ -3464,7 +3464,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Resilient_0": {
@@ -3483,7 +3483,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Brilliant_0": {
@@ -3502,7 +3502,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Enlightened_0": {
@@ -3521,7 +3521,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_SilverTongue_0": {
@@ -3540,7 +3540,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_MerchantEye_0": {
@@ -3562,7 +3562,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_CraftsmanSoul_0": {
@@ -3581,7 +3581,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_BeastWhisperer_0": {
@@ -3604,7 +3604,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_HealerTouch_0": {
@@ -3626,7 +3626,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Lucky_0": {
@@ -3649,7 +3649,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_CursedLuck_0": {
@@ -3671,7 +3671,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_HollowCore_0": {
@@ -3690,7 +3690,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_FragileVessel_0": {
@@ -3709,7 +3709,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_EchoOfDefeat_0": {
@@ -3728,7 +3728,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_SealedPower_0": {
@@ -3747,7 +3747,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_F_0": {
@@ -3771,7 +3771,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_E_0": {
@@ -3794,7 +3794,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_D_0": {
@@ -3815,7 +3815,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_C_0": {
@@ -3838,7 +3838,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_B_0": {
@@ -3862,7 +3862,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_A_0": {
@@ -3887,7 +3887,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_S_0": {
@@ -3912,7 +3912,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_SS_0": {
@@ -3937,7 +3937,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_SSS_0": {
@@ -3962,7 +3962,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "RT_Nearsighted_0": {
@@ -5128,7 +5128,7 @@
     "CanRemove": true,
     "AddPrice": 150,
     "RemovePrice": 250,
-    "BypassLimit": false,
+    "BypassLimit": true,
     "CustomName": false,
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
@@ -5327,6 +5327,383 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "RimWorld",
+    "modactive": true,
+    "Version": 1
+  },
+  "HAR_Xenophobia_1": {
+    "DefName": "HAR_Xenophobia",
+    "Name": "Xenophobe",
+    "Degree": 1,
+    "Description": "[PAWN_name] hates and distrusts xenos. They see them as little more than animals.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 194,
+    "RemovePrice": 324,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Humanoid Alien Races",
+    "modactive": true,
+    "Version": 1
+  },
+  "HAR_Xenophobia_-1": {
+    "DefName": "HAR_Xenophobia",
+    "Name": "Xenophile",
+    "Degree": -1,
+    "Description": "[PAWN_name] thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 194,
+    "RemovePrice": 324,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Humanoid Alien Races",
+    "modactive": true,
+    "Version": 1
+  },
+  "Faith_0": {
+    "DefName": "Faith",
+    "Name": "Faith",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef}'s faith is firm. It allows {PAWN_objective} to better handle pressure and power through pain.",
+    "Stats": [
+      "+0.1 Pain shock threshold",
+      "-0.15 Mental break threshold"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 194,
+    "RemovePrice": 324,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "NewRatkinPlus",
+    "modactive": true,
+    "Version": 1
+  },
+  "Wolfein_PureBlood_0": {
+    "DefName": "Wolfein_PureBlood",
+    "Name": "Pure-blood Wolfein",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} is a pure-blood Wolfein.",
+    "Stats": [
+      "+3 Melee dodge chance",
+      "+3 Melee hit chance",
+      "+0.2 Psychic sensitivity"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 1770,
+    "RemovePrice": 2950,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Wolfein Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "Cinder_Coke_0": {
+    "DefName": "Cinder_Coke",
+    "Name": "Coke",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} is a part of an unknown consciousness. when others approach, they will feel a burning sensation",
+    "Stats": [
+      "+1 Beauty"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 225,
+    "RemovePrice": 375,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Cinders of the Embergarden",
+    "modactive": true,
+    "Version": 1
+  },
+  "Mugirl_SingleshotWeaponAversion_0": {
+    "DefName": "Mugirl_SingleshotWeaponAversion",
+    "Name": "Single-shot weapon aversion",
+    "Degree": 0,
+    "Description": "Why do I have to use this useless junk that fires one shot, one shot, one shot at a time!",
+    "Stats": [
+      "+2 Melee hit chance"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 900,
+    "RemovePrice": 1500,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Mugirl Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "Mugirl_BrainWashPeace_0": {
+    "DefName": "Mugirl_BrainWashPeace",
+    "Name": "Brainwashed calm",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} has been brainwashed by the device, and even the saddest events can no longer break {PAWN_nameDef}.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Mugirl Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "Mugirl_BrainWashObey_0": {
+    "DefName": "Mugirl_BrainWashObey",
+    "Name": "Brainwashed obedience",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} has been brainwashed by the device, and even if enslaved life is full of suffering, {PAWN_nameDef} will submit without resistance.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Mugirl Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "Mugirl_NurturedByMugirl_0": {
+    "DefName": "Mugirl_NurturedByMugirl",
+    "Name": "Mugirl nurtured",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} was gently nurtured by a Mugirl during childhood and grew up stronger for it.",
+    "Stats": [
+      "+1 Move speed"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 525,
+    "RemovePrice": 875,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Mugirl Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "LazyCat_0": {
+    "DefName": "LazyCat",
+    "Name": "Lazy cat",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} loves to sleep and always feels like {PAWN_pronoun} hasn't had enough rest.",
+    "Stats": [
+      "-0.2 Rest rate multiplier"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 58,
+    "RemovePrice": 487,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Kiiro Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "GreedyCat_0": {
+    "DefName": "GreedyCat",
+    "Name": "Greedy cat",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} always carries a lot of snacks with {PAWN_pronoun}, and {PAWN_pronoun} never stops munching on them.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Kiiro Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "FireFear_0": {
+    "DefName": "FireFear",
+    "Name": "Fire fear",
+    "Degree": 0,
+    "Description": "From some experience, {PAWN_nameDef} is very afraid of fire.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Kiiro Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "ToxicResistance_0": {
+    "DefName": "ToxicResistance",
+    "Name": "Toxic resistance",
+    "Degree": 0,
+    "Description": "{PAWN nameDef} has innate resistance to toxic.",
+    "Stats": [
+      "+0.25 Toxic environment resistance"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 187,
+    "RemovePrice": 312,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Kiiro Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "SharpEye_0": {
+    "DefName": "SharpEye",
+    "Name": "Sharp eye",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} has exceptional eyesight.",
+    "Stats": [
+      "+8 Shooting accuracy"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 3150,
+    "RemovePrice": 5250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Kiiro Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "OldWound_0": {
+    "DefName": "OldWound",
+    "Name": "Old wound",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef}'s body has suffered severe wound that has caused irreparable damage.",
+    "Stats": [
+      "-0.15 Move speed",
+      "-0.08 Pain shock threshold"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 67,
+    "RemovePrice": 560,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Kiiro Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "KittyValor_0": {
+    "DefName": "KittyValor",
+    "Name": "Kitty valor!",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} is a valor supported by kiiros.",
+    "Stats": [
+      "+0.25 Social impact",
+      "+0.4 Move speed",
+      "+0.2 Pain shock threshold",
+      "-0.3 Mental break threshold",
+      "+10 Melee dodge chance",
+      "+5 Melee hit chance",
+      "-20.0% Sleep fall rate",
+      "+12.0% Injury healing factor"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 3850,
+    "RemovePrice": 6417,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Kiiro Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "Kiiro_ShoppingTendency_-1": {
+    "DefName": "Kiiro_ShoppingTendency",
+    "Name": "Stingy",
+    "Degree": -1,
+    "Description": "{PAWN_nameDef} Not willing to spend money. {PAWN_nameDef} always haggles as much as {PAWN_pronoun} can in trading, and never goes shopping in spare time.",
+    "Stats": [
+      "+0.08 Trade price improvement"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 207,
+    "RemovePrice": 345,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Kiiro Story: Events Expanded",
+    "modactive": true,
+    "Version": 1
+  },
+  "Kiiro_ShoppingTendency_1": {
+    "DefName": "Kiiro_ShoppingTendency",
+    "Name": "Shopaholic",
+    "Degree": 1,
+    "Description": "{PAWN_nameDef} likes to buy things and spends money lavishly. {PAWN_nameDef} visits stores more often and always spends more.",
+    "Stats": [
+      "-0.08 Trade price improvement"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 62,
+    "RemovePrice": 517,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Kiiro Story: Events Expanded",
     "modactive": true,
     "Version": 1
   }
